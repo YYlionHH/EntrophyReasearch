@@ -1,0 +1,20 @@
+default permeter:
+N = 1k
+step l = L/10
+trials = 50
+L0 = L/10
+
+dt = 1e-5 # Time step in s
+tmax = 1e-2 # Maximum time in ss
+
+file name ”an“ where "n" means the number of coefficients
+
+file name " l = n" where "n" in " L0 / n"
+
+for every file, figure_1, 2, 3 corrsponding to 
+
+1: curvefit after run once
+
+2: curvefit of average value of entropy after run 50 times
+
+3: error shade of entropy after run 50 times

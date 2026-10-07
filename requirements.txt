@@ -1,0 +1,5 @@
+# Dependencies for the saved-data analysis, not the historical simulators.
+numpy>=1.26,<3
+pandas>=2.2,<4
+openpyxl>=3.1,<4
+matplotlib>=3.8,<4

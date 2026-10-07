@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "analysis": "replay_of_archived_trials_without_new_simulation_or_fitting",
+  "entropy_conversion": {
+    "formula": "H = stored_entropy / (1.38e-23 * 1e22)",
+    "stored_units_per_dimensionless_entropy": 0.138
+  },
+  "standard_deviation_ddof": 0,
+  "uncertainty_band": "mean_plus_or_minus_one_population_standard_deviation_not_a_confidence_interval",
+  "timestamp_note": "Recorded timestamps are preserved. Original source records a post-step state at time zero.",
+  "aggregate_validation_tolerance_stored_units": {
+    "absolute": 1e-10,
+    "relative": 1e-10
+  },
+  "ideal_gas": {
+    "source_file": "data/ideal_gas.xlsx",
+    "trials": 50,
+    "points": 1000,
+    "recorded_time_range_seconds": [
+      0.0,
+      0.0999
+    ],
+    "final_mean_dimensionless": 0.6567500355084788,
+    "final_population_std_dimensionless": 0.0011361906697685822,
+    "max_absolute_archive_discrepancy_stored_units": {
+      "mean": 2.0816681711721685e-17,
+      "population_std": 1.6263032587282567e-18
+    }
+  },
+  "random_walk": {
+    "source_file": "data/random_walk.xlsx",
+    "trials": 50,
+    "points": 1001,
+    "recorded_time_range_seconds": [
+      0.0,
+      0.01
+    ],
+    "final_mean_dimensionless": 6.321956925521418,
+    "final_population_std_dimensionless": 0.016673021995443543,
+    "max_absolute_archive_discrepancy_stored_units": {
+      "mean": 1.1102230246251565e-16,
+      "population_std": 1.1275702593849246e-17
+    }
+  }
+}

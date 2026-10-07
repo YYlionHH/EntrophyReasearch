@@ -1,0 +1,57 @@
+[
+  {
+    "original_path": "IG3/N=50k/data3.txt",
+    "repository_path": "archive/2024/IG3/data3.txt",
+    "sha256": "bd17ee164369e2fe2f11ab75c9b263b9e60ef17087bd70760e3be923fade320c"
+  },
+  {
+    "original_path": "IG3/GibbsEnergyIG3.py",
+    "repository_path": "archive/2024/IG3/GibbsEnergyIG3.py",
+    "sha256": "4151c7a96616d04173b3f83fd3b91067f37ae2e24bcec16024cbd3a7a0d33a39"
+  },
+  {
+    "original_path": "IG3/SolveEq.py",
+    "repository_path": "archive/2024/IG3/SolveEq.py",
+    "sha256": "be21eff85373aa4d6c7b1a09a2ebe06341041f329240f2dc77a9dd1f13d61397"
+  },
+  {
+    "original_path": "IG3/Static.py",
+    "repository_path": "archive/2024/IG3/Static.py",
+    "sha256": "d21ab828efefd01f66b7a8fd11690aa0fb35ed283eefdf969af4159fe640a25a"
+  },
+  {
+    "original_path": "RW1/GibbsEnergyRW1.py",
+    "repository_path": "archive/2024/RW1/GibbsEnergyRW1.py",
+    "sha256": "1be3886a0923e01ce905dab3fbaa6fc5b9e467048dda6dbc623daa749f547a94"
+  },
+  {
+    "original_path": "RW1/readthis.txt",
+    "repository_path": "archive/2024/RW1/readthis.txt",
+    "sha256": "52c6e2f23a47937b297545d06e2c66018bc6cbdde04dfb33cefa82e539bdb785"
+  },
+  {
+    "original_path": "RW1/SolveEq.py",
+    "repository_path": "archive/2024/RW1/SolveEq.py",
+    "sha256": "956216fc003f741450833ae4b16b334392c32ba735334c9718b0da3ea1ff63e9"
+  },
+  {
+    "original_path": "RW1/StaticRW1.py",
+    "repository_path": "archive/2024/RW1/StaticRW1.py",
+    "sha256": "852421b3a6178073b3ccb0d30e57bbaabe46f9997a21ab5a4a4728e64ad0aa4b"
+  },
+  {
+    "original_path": "IG3/N=50k/data3.xlsx",
+    "repository_path": "data/ideal_gas.xlsx",
+    "sha256": "08a236a2455f1a1ab3259d812bf98acf00975aafbd61e3f4e434c103dc76f3a0"
+  },
+  {
+    "original_path": "RW1/N=1k/l=50/RWdata300.xlsx",
+    "repository_path": "data/random_walk.xlsx",
+    "sha256": "96eb54764ef63b77ab124b653a09ed32a6ba006bdcece7357853dbf60c36e9f8"
+  },
+  {
+    "original_path": "J_poster_1.3.pdf",
+    "repository_path": "docs/Simulating_Entropy_Evolution_2024.pdf",
+    "sha256": "e59148e316431dc3b3eb9c11874d642ea8ad2cea0a0fd86b124a7ef017c2a943"
+  }
+]

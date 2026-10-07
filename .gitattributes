@@ -1,0 +1,13 @@
+# Preserve the bytes of the original research materials and their checksums.
+archive/** -text
+data/*.xlsx -text
+docs/*.pdf -text
+*.png -text
+
+# Use portable line endings for the newly written portfolio files.
+README.md text eol=lf
+analyze.py text eol=lf
+requirements.txt text eol=lf
+docs/*.md text eol=lf
+docs/*.json text eol=lf
+results/*.json text eol=lf
